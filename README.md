@@ -3,10 +3,10 @@
 ````markdown
 # ♻️ Open Waste Exchange (OWE)
 
-Open Waste Exchange (OWE) is a **community-driven digital marketplace** for recycling. It connects:
+Open Waste Exchange (OWE) is a community-driven digital marketplace for recycling. It connects:
 
-- **Sources of recyclable waste**: individuals, hostels, offices  
-- **Collectors**: NGOs, recyclers, volunteers  
+- Sources of recyclable waste**: individuals, hostels, offices  
+- Collectors: NGOs, recyclers, volunteers  
 
 The application is built as a **highly performant Single-Page Application (SPA)** using **Next.js** and **Tailwind CSS**, optimized for fast navigation and rapid development (great for hackathons or demos).
 
